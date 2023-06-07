@@ -2,6 +2,6 @@
 
 Incorporated Dara Analysis techniques,
 specializing in time series analysis,
-to deliver valueable insights,
+to deliver valuable insights,
 sales forecasting and interactive dashboard
 creation, driving business success.
